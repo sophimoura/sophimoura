@@ -5,8 +5,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sophimoura&bg_color=ffffffa&color=ffffff&line=0033ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Sophia Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=sophimoura&show_icons=true&theme=mark)
-![Linguagem mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sophimoura&langs_count=8)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sophimoura&show_icons=true&theme=mark" alt="Sophia Moura GitHub stats]" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophimoura&langs_count=8" />
+</div>
+
 ## ▶ Tecnologias que eu utilizo: 
 
 <div style="diplay: inline_block"><br/>
