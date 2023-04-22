@@ -1,7 +1,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=true&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Sophia+Moura!+%F0%9F%A4%9D%F0%9F%8F%BB;Sou+estudante+de+Inform%C3%A1tica+do+IFCE+📚;Seja+bem-vindo!🙂+)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Sophia+Moura!+🤝🏻;Sou+estudante+de+Informática+do+IFCE📚;Seja+Bem-vindo!🙂)](https://git.io/typing-svg)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sophimoura&bg_color=ffffffa&color=ffffff&line=0033ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -9,7 +11,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sophimoura&show_icons=true&theme=mark" alt="Sophia Moura GitHub stats]" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophimoura&langs_count=8" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophimoura&langs_count=8" />
 </div>
 
 
@@ -32,7 +34,7 @@
 
 ![ Git ](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### - S.O
+### - S.O:
 ![ Windows ](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)  
 
 
