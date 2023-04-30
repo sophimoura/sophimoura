@@ -6,13 +6,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sophimoura&bg_color=ffffffa&color=ffffff&line=0033ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sophimoura&show_icons=true&theme=mark" alt="Sophia Moura GitHub stats]" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophimoura&langs_count=8" />
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sophimoura&show_icons=true&theme=transparent" 
+ alt="Sophia Moura GitHub stats]" />
+ <img width="49%"height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophimoura&theme=transparent"/>
+ <img width="49%"height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=sophimoura&theme=transparent"/>
 </div>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Tecnologias que eu utilizo: 
 
@@ -23,8 +22,7 @@
 <img align= "center" alt= "java script" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 
-
- ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Ferramentas que eu utilizo:
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Ferramentas que eu utilizo:
 
 ![ Visual Studio ](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![ Eclipse ](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -34,31 +32,25 @@
 ### - Sistemas operacionais :
 ![ Windows ](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)  
 
-
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/124884847/233837004-aea0c34d-7a67-4f0f-b366-368974d041b3.png" width="600px" />
+<img src="https://user-images.githubusercontent.com/124884847/233837004-aea0c34d-7a67-4f0f-b366-368974d041b3.png" width="500px" />
 </div>
 
-
-
- ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Estudante do Instituto Federal do Ceará (IFCE).<b> 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Estudante do Instituto Federal do Ceará (IFCE).<b> 
  
-
-
- ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Cursando o Ensino Médio Téncnico em Informática.<b>
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Cursando o Ensino Médio Téncnico em Informática.<b>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sophimoura&theme=mark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sophimoura&theme=&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-  <div align="center">
+ 
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sophimoura}/count.svg" /></p> 
 <br>
-
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
+
 
 
