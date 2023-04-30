@@ -40,6 +40,9 @@
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Cursando o Ensino Médio Téncnico em Informática.<b>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Perfil utilizado para fins acadêmicos.
+ 
+ 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sophimoura&theme=&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
