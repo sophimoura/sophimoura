@@ -3,8 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Sophia+Moura!+🤝🏻;Sou+estudante+de+Informática+do+IFCE📚;Seja+Bem-vindo!🙂)](https://git.io/typing-svg)
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sophimoura&bg_color=ffffffa&color=ffffff&line=0033ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sophimoura&bg_color=ffffffa&color=ffffff&line=0033ff&point=ffffff&area=true&hide_border=true)](https://github.com/sophimoura/github-readme-activity-graph)
 
 <div align="center">  
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sophimoura&show_icons=true&theme=transparent" 
