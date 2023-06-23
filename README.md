@@ -38,9 +38,9 @@
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/124884847/233837004-aea0c34d-7a67-4f0f-b366-368974d041b3.png" width="500px" />
- 
+<img src="https://user-images.githubusercontent.com/124884847/233837004-aea0c34d-7a67-4f0f-b366-368974d041b3.png" width="600px" />
 </div>
+
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b>Estudante do Instituto Federal do Ceará (IFCE).<b>  
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b>Cursando o terceiro período do Ensino Médio Téncnico em Informática.<b>
