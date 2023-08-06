@@ -8,7 +8,7 @@
 
 ### • 👩‍🚀 Sou atleta de handball há 7 anos. Tenho como hobbies a pintura, o canto e a leitura. 
 
-### • 💡 Trabalhando em um novo repositório JAVA .
+### • 💡 Trabalhando em um novos projetos.
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sophimoura&bg_color=ffffffa&color=ffffff&line=0033ff&point=ffffff&area=true&hide_border=true)](https://github.com/sophimoura/github-readme-activity-graph)
