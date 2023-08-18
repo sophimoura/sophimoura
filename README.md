@@ -12,7 +12,6 @@
 
 ### • 👩‍🚀 Sou atleta de handball. Tenho como hobbies a pintura e a leitura. 
 
-### • 📬 Para contato: araujomsophia@gmail.com 
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sophimoura&bg_color=000000&color=ffffff&line=0033ff&point=ffffff&area=true&hide_border=true)](https://github.com/sophimoura/github-readme-activity-graph)
