@@ -3,14 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Sophia+Moura!+🤝🏻;Sou+estudante+de+Informática+do+IFCE📚;Seja+Bem-vindo!🙂)](https://git.io/typing-svg)
 
-
-### • 🌱 Estudando e aprimorando minhas     habilidades na área de TI, especificamente   programação. 
-
-### • 💡  Trabalhando em novos projetos.
-
-### • ⏳  Buscando aprender novos idiomas, como o Inglês.
-
-### • 👩‍🚀 Sou atleta de handball. Tenho como hobbies a pintura e a leitura. 
+• 🌱 Estudando e aprimorando minhas     habilidades na área de TI, especificamente   programação. 
+• 💡  Trabalhando em novos projetos.
+• ⏳  Buscando aprender novos idiomas, como o Inglês.
+• 👩‍🚀 Sou atleta de handball. Tenho como hobbies a pintura e a leitura. 
 
 
 
