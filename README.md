@@ -11,7 +11,7 @@
 
 • ⏳ Buscando aprender novos idiomas, como o Inglês.
 
-• 👩‍🚀 Sou atleta de handball há 7 anos e atualmente represento os times:  *LMD e a Seleção de Handebol do IFCE - Campus Fortaleza*. 
+• 🤾🏻‍♀️ Sou atleta de handball há 7 anos e atualmente represento os times:  *LMD e a Seleção de Handebol do IFCE - Campus Fortaleza*. 
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sophimoura&bg_color=000000&color=ffffff&line=0033ff&point=ffffff&area=true&hide_border=true)](https://github.com/sophimoura/github-readme-activity-graph)
