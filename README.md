@@ -1,16 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Sophia+Moura!+🤝🏻;Sou+estudante+de+Informática+do+IFCE📚;Seja+Bem-vindo!🙂)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Sophia+Moura!)](https://git.io/typing-svg)
 
-• 🌱 Estudando e aprimorando minhas     habilidades na área de TI, especificamente   programação. 
+• 📚 Estudante do **Insituto Federal do Ceará (IFCE)** - Cursando o quarto período do **curso técnico** e o segundo ano do **ensino médio**. 
 
-• 💡  Trabalhando em novos projetos.
+• 🌱 Trabalhando em novos projetos com *swift e java*.
 
-• ⏳  Buscando aprender novos idiomas, como o Inglês.
+• 💡 Estudando e aprimorando minhas habilidades na área de TI, especificamente programação. 
 
-• 👩‍🚀 Sou atleta de handball. Tenho como hobbies a pintura e a leitura. 
+• ⏳ Buscando aprender novos idiomas, como o Inglês.
 
+• 👩‍🚀 Sou atleta de handball há 7 anos e atualmente represento os times:  *LMD e a Seleção de Handebol do IFCE - Campus Fortaleza*. 
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sophimoura&bg_color=000000&color=ffffff&line=0033ff&point=ffffff&area=true&hide_border=true)](https://github.com/sophimoura/github-readme-activity-graph)
@@ -39,8 +40,9 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![ GitHub ](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
+
 ![ Git ](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![ GitHub ](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 <div align="center">
