@@ -5,11 +5,11 @@
 
 • 📚 Estudante do **Insituto Federal do Ceará (IFCE)** - Cursando o quarto período do **curso técnico** e o segundo ano do **ensino médio**. 
 
-• 🌱 Trabalhando em novos projetos com *swift e java*.
-
 • 💡 Estudando e aprimorando minhas habilidades na área de TI, especificamente programação. 
 
 • ⏳ Buscando aprender novos idiomas, como o Inglês.
+
+• 🌱 Trabalhando em novos projetos com *swift*. 
 
 • 🤾🏻‍♀️ Sou atleta de handball há 7 anos e atualmente represento os times:  *LMD e a Seleção de Handebol do IFCE - Campus Fortaleza*. 
 
@@ -20,6 +20,9 @@
 <div align="center">  
  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=sophimoura&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=FFFFFF&bg_color=000000" alt="Sophia Moura GitHub stats]" />
  <img width="49%"height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophimoura&layout=compact&hide_border=true&title_color=0000FF&text_color=FFFFFF&bg_color=000000" />
+
+###  Para contato: 
+<a href="mailto: sophia.moura43@aluno.ifce.edu.br" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 ### Principais liguagens estudas: 
 <img align= "center" alt= "phyton" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
