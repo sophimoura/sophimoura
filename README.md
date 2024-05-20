@@ -4,6 +4,7 @@
  align="center">  
 <h2>Olá, meu nome é Sophia Moura!</h2>
 </div>
+
 • 👉 Tenho 17 anos de idade.
 
 • 📚 Estudante do **Insituto Federal do Ceará (IFCE)** - Cursando o quinto período do **curso técnico** e o terceiro ano do **ensino médio**. 
