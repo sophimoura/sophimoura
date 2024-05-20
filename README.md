@@ -1,6 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Sophia+Moura!)](https://git.io/typing-svg)
+<div
+ align="center">  
+<h2>Olá, meu nome é Sophia Moura!</h2>
+</div>
 
 • 📚 Estudante do **Insituto Federal do Ceará (IFCE)** - Cursando o quinto período do **curso técnico** e o terceiro ano do **ensino médio**. 
 
