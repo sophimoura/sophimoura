@@ -11,7 +11,7 @@
 
 • 🏫 Bolsista pelo Programa Institucional de Bolsas de Iniciação Científica Júnior - (PIBIC-Jr.). Responsável pelo desenvolvimento do projeto: *Promoção de Alimentação Saudável para Prevenção de Doenças Relacionadas ao Diabetes Tipo 2: Desenvolvimento de Mídias Digitais Interativas.* 
 
-• 💡 Estudando e aprimorando minhas habilidades na área de TI, especificamente programação. 
+• 💡 Estudando e aprimorando minhas habilidades na área de TI. 
 
 • ⏳ Buscando aprender novos idiomas, como o Inglês.
 
