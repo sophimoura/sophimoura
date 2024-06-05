@@ -29,7 +29,7 @@
 </div>
 
  ### ➡ Para contato: 
-<a href="mailto: sophia.moura43@aluno.ifce.edu.br" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto: araujomsophia@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 -----------------------------------------------------
 
 ### ➡ Principais liguagens estudas: 
