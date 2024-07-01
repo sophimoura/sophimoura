@@ -7,7 +7,7 @@
 
 • 👉 Tenho 17 anos de idade.
 
-• 📚 Estudante do **Insituto Federal do Ceará (IFCE)** - Cursando o quinto período do **curso técnico** e o terceiro ano do **ensino médio**. 
+• 📚 Estudante do **Instituto Federal do Ceará (IFCE)** - Cursando o quinto período do **curso técnico** e o terceiro ano do **ensino médio**. 
 
 • 🏫 Bolsista pelo **Programa Institucional de Bolsas de Iniciação Científica Júnior - (PIBIC-Jr.)**. Responsável pelo desenvolvimento do projeto: *Promoção de Alimentação Saudável para Prevenção de Doenças Relacionadas ao Diabetes Tipo 2: Desenvolvimento de Mídias Digitais Interativas.* 
 
