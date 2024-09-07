@@ -13,7 +13,7 @@
 
 • 💡 Estudando e aprimorando minhas habilidades na área de TI. 
 
-• ⏳ Buscando aprender novos idiomas, como o Inglês. Estudando pelo curso ***PROLINGUA*** da UFC, filiado a Casa de Cultura Britânica (CCB).
+• ⏳ Buscando aprender novos idiomas, como o Inglês. Aluna do curso ***PROLINGUA*** da UFC, filiado a Casa de Cultura Britânica (CCB).
 
 • 🤾🏻‍♀️ Sou atleta de handball há 7 anos e atualmente represento os times:  *LMD e a Seleção de Handebol do IFCE - Campus Fortaleza*. 
 
