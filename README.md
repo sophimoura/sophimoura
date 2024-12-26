@@ -7,11 +7,11 @@
 
 • 👉 Tenho 18 anos de idade.
 
-• 📚 Estudante do **Instituto Federal do Ceará (IFCE)** - Cursando o quinto período do **Curso Técnico em Informática** e o terceiro ano do **ensino médio**. 
+• 📚 Sou estudante do **Instituto Federal do Ceará (IFCE)** - Cursando o quinto período do **Curso Técnico em Informática** e o terceiro ano do **ensino médio**. 
 
-• 💡 Estudando e aprimorando minhas habilidades na área de TI. 
+• 💡 Estou estudando e aprimorando minhas habilidades na área de TI. 
 
-• ⏳ Buscando aprender novos idiomas, como o Inglês. Aluna do curso ***PROLINGUA*** da UFC, filiado a Casa de Cultura Britânica (CCB).
+• ⏳ Busco aprender novos idiomas, como o Inglês. Aluna do curso ***PROLINGUA*** da UFC, filiado a Casa de Cultura Britânica (CCB).
 
 • 🤾🏻‍♀️ Sou atleta de handball há 8 anos e atualmente represento os times:  *LMD e a Seleção de Handebol do IFCE - Campus Fortaleza*. 
 
