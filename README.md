@@ -9,15 +9,13 @@
 
 • 📚 Estudante do **Instituto Federal do Ceará (IFCE)** - Cursando o quinto período do **Curso Técnico em Informática** e o terceiro ano do **ensino médio**. 
 
-• 🏫 Bolsista pelo **Programa Institucional de Bolsas de Iniciação Científica Júnior - (PIBIC-Jr.)**. Responsável pelo desenvolvimento do projeto: *Promoção de Alimentação Saudável para Prevenção de Doenças Relacionadas ao Diabetes Tipo 2: Desenvolvimento de Mídias Digitais Interativas.* 
-
 • 💡 Estudando e aprimorando minhas habilidades na área de TI. 
 
 • ⏳ Buscando aprender novos idiomas, como o Inglês. Aluna do curso ***PROLINGUA*** da UFC, filiado a Casa de Cultura Britânica (CCB).
 
 • 🤾🏻‍♀️ Sou atleta de handball há 8 anos e atualmente represento os times:  *LMD e a Seleção de Handebol do IFCE - Campus Fortaleza*. 
 
-• 🌱 Trabalhando em novos projetos.
+• 🌱 Trabalhando em novos projetos - ECOLHE, Nutrits, HelpMeMo.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sophimoura&bg_color=000000&color=ffffff&line=0033ff&point=ffffff&area=true&hide_border=true)](https://github.com/sophimoura/github-readme-activity-graph)
 
@@ -27,8 +25,10 @@
 <img height="200cm" width="350cm"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sophimoura&theme=transparent" />
 </div>
 
- ### ➡ Para contato: 
-<a href="mailto: araujomsophia@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+### ➡ Para contato: 
+![LinkedIn](https://img.shields.io/badge/sophia-moura-a45585308?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 -----------------------------------------------------
 
 ### ➡ Principais liguagens estudadas: 
@@ -41,7 +41,6 @@
 ### ➡ Sistemas operacionais estudados:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 ![Linux ](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 -----------------------------------------------------
 
 ### ➡  IDE's/Tools:
