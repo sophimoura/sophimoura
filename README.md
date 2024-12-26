@@ -5,7 +5,7 @@
 <h2>Olá, meu nome é Sophia Moura!</h2>
 </div>
 
-• 👉 Tenho 17 anos de idade.
+• 👉 Tenho 18 anos de idade.
 
 • 📚 Estudante do **Instituto Federal do Ceará (IFCE)** - Cursando o quinto período do **Curso Técnico em Informática** e o terceiro ano do **ensino médio**. 
 
@@ -15,7 +15,7 @@
 
 • ⏳ Buscando aprender novos idiomas, como o Inglês. Aluna do curso ***PROLINGUA*** da UFC, filiado a Casa de Cultura Britânica (CCB).
 
-• 🤾🏻‍♀️ Sou atleta de handball há 7 anos e atualmente represento os times:  *LMD e a Seleção de Handebol do IFCE - Campus Fortaleza*. 
+• 🤾🏻‍♀️ Sou atleta de handball há 8 anos e atualmente represento os times:  *LMD e a Seleção de Handebol do IFCE - Campus Fortaleza*. 
 
 • 🌱 Trabalhando em novos projetos.
 
