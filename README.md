@@ -7,7 +7,7 @@
 
 • 👉 Tenho 18 anos de idade.
 
-• 📚 Sou estudante do **Instituto Federal do Ceará (IFCE)** - Cursando o quinto período do **Curso Técnico em Informática** e o terceiro ano do **ensino médio**. 
+• 📚 Sou estudante do **Instituto Federal do Ceará (IFCE)** - Cursando o sexto período do **Curso Técnico em Informática** e o terceiro ano do **ensino médio**. 
 
 • 💡 Estou estudando e aprimorando minhas habilidades na área de TI. 
 
