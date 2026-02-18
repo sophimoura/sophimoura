@@ -5,19 +5,16 @@
 <h2>Olá, meu nome é Sophia Moura!</h2>
 </div>
 
-• 👉 Tenho 18 anos de idade.
+• 👉 Tenho 19 anos de idade.
 
-• 📚 Sou estudante do **Instituto Federal do Ceará (IFCE)** - Cursando o sexto período do **Curso Técnico em Informática** e o terceiro ano do **ensino médio**. 
+• 📚 Sou formada pelo **Instituto Federal do Ceará (IFCE)** no **Curso Técnico em Informática**. 
 
 • 💡 Estou estudando e aprimorando minhas habilidades na área de TI. 
 
-• ⏳ Busco aprender novos idiomas, como o Inglês. Aluna do curso ***PROLINGUA*** da UFC, filiado a Casa de Cultura Britânica (CCB).
+• ⏳ Busco aprender novos idiomas, como o Inglês. Sou ex-aluna do curso ***PROLINGUA*** da UFC, filiado a Casa de Cultura Britânica (CCB).
 
-• 🤾🏻‍♀️ Sou atleta de handball há 8 anos e atualmente represento os times:  *LMD e a Seleção de Handebol do IFCE - Campus Fortaleza*. 
+• 🌱 Trabalhando em projetos eficientes e intuitivos.
 
-• 🌱 Trabalhando em novos projetos - ECOLHE, Nutrits, HelpMeMo.
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sophimoura&bg_color=000000&color=ffffff&line=0033ff&point=ffffff&area=true&hide_border=true)](https://github.com/sophimoura/github-readme-activity-graph)
 
 <div
  align="center">  
