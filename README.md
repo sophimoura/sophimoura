@@ -26,6 +26,7 @@
 
 ### ➡ Para contato: 
 [![My contact](https://skillicons.dev/icons?i=gmail)](mailto:araujomsopia@gmail.com)
+
 ![LinkedIn](https://img.shields.io/badge/linkedin.com/in/sophia-moura-a45585308?style=for-the-badge&logo=linkedin&logoColor=white)
 
 -----------------------------------------------------
