@@ -9,7 +9,7 @@
 
 • 📚 Graduanda em **Sistemas e Mídias Digitais pela UFC**. 
 
-• 👩🏻‍🎓 Sou formada pelo **Instituto Federal do Ceará (IFCE)** no **Curso Técnico em Informática**. 
+• 👩🏻‍🎓 **Técnica em Informática** pelo Instituto Federal do Ceará (IFCE). 
 
 • ⏳ Aprendendo novos idiomas, como o Inglês - ***Sou ex-aluna do curso PROLINGUA da UFC, filiado a Casa de Cultura Britânica (CCB).***
 
@@ -25,6 +25,7 @@
 </div>
 
 ### ➡ Para contato: 
+[![My contact](https://skillicons.dev/icons?i=gmail)](mailto:araujomsopia@gmail.com)
 ![LinkedIn](https://img.shields.io/badge/linkedin.com/in/sophia-moura-a45585308?style=for-the-badge&logo=linkedin&logoColor=white)
 
 -----------------------------------------------------
