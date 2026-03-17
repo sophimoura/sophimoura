@@ -25,8 +25,7 @@
 </div>
 
 ### ➡ Para contato: 
-![LinkedIn](https://img.shields.io/badge/sophia-moura-a45585308?style=for-the-badge&logo=linkedin&logoColor=white)
-
+![LinkedIn](https://img.shields.io/badge/linkedin.com/in/sophia-moura-a45585308?style=for-the-badge&logo=linkedin&logoColor=white)
 
 -----------------------------------------------------
 
