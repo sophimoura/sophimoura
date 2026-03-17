@@ -6,14 +6,11 @@
 </div>
 
 • 👉 Tenho 19 anos de idade.
-
-• 📚 Sou formada pelo **Instituto Federal do Ceará (IFCE)** no **Curso Técnico em Informática**. 
-
+• 📚 Graduanda em **Sistemas e Mídias Digitais pela UFC**. 
+• 👩🏻‍🎓 Sou formada pelo **Instituto Federal do Ceará (IFCE)** no **Curso Técnico em Informática**. 
+• ⏳ Aprendendo novos idiomas, como o Inglês - ***Sou ex-aluna do curso PROLINGUA da UFC, filiado a Casa de Cultura Britânica (CCB).***
 • 💡 Estou estudando e aprimorando minhas habilidades na área de TI. 
-
-• ⏳ Busco aprender novos idiomas, como o Inglês. Sou ex-aluna do curso ***PROLINGUA*** da UFC, filiado a Casa de Cultura Britânica (CCB).
-
-• 🌱 Trabalhando em projetos eficientes e intuitivos.
+• 🌱Trabalhando em projetos eficientes e intuitivos.
 
 
 <div
